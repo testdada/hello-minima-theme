@@ -39,7 +39,7 @@ Save. Enjoy. Happy Jekylling!
 
 ### Live Demo
 
-See a live demo @ [`henrythemes.github.io/hello-minima-theme` »](https://henrythemes.github.io/hello-minima-theme)
+See a live demo @ [`testdada.github.io/hello-minima-theme` »](https://testdada.github.io/hello-minima-theme)
 
 
 
